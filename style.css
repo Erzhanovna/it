@@ -1,0 +1,56 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: 'roboto', sans-serif;
+}
+.header{
+
+	height:1621px;
+	padding-top: 0px;
+}
+
+
+
+
+.container{
+	width: 1229px;
+	margin: 0 auto;
+}
+
+header a{
+	text-decoration:none;
+	color: black;
+	
+}
+
+ul, li {
+	display: block;
+}
+
+
+
+.nav{
+	display: flex;
+	align-items: center;
+	margin-top:22px
+}
+.text{
+	width:210px;
+	margin-right:300px
+}
+.menu{
+	display: flex;
+	font-size: 14px;
+	letter-spacing: 0.1em;
+	
+
+}
+
+.menu li{
+	margin-right: 40px;
+}
+.dog{
+	margin-left:0px auto;
+	float: right;
+	
+}
